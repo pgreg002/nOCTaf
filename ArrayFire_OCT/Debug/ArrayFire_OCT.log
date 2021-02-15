@@ -1,0 +1,5 @@
+﻿  ArrayFire_OCT.cpp
+C:\Program Files\ArrayFire\v3\include\af\exception.h(22,1): warning C4275: non dll-interface class 'std::exception' used as base for dll-interface class 'af::exception'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.26.28801\include\vcruntime_exception.h(48): message : see declaration of 'std::exception'
+C:\Program Files\ArrayFire\v3\include\af\exception.h(21): message : see declaration of 'af::exception'
+Debug\ArrayFire_OCT.obj : fatal error LNK1112: module machine type 'x86' conflicts with target machine type 'x64'
